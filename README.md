@@ -69,6 +69,23 @@ I'm a Computer Science Engineering graduate (2026) based in Bengaluru who loves 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+**Extra Tools & Data Skills**
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Pickle](https://img.shields.io/badge/Model_Deployment-Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Core Competencies**
+
+`Data Cleaning` `Exploratory Data Analysis (EDA)` `Data Visualization` `Dashboard Development` `Data Modeling` `KPI Reporting` `Business Intelligence` `Predictive Analytics` `Pivot Tables` `Joins & Subqueries` `SQL Views` `Feature Engineering` `Model Building & Evaluation` `Data-Driven Decision Making`
+
+**Soft Skills**
+
+`Analytical Thinking` `Problem Solving` `Communication` `Quick Learner` `Attention to Detail`
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -144,6 +161,22 @@ Interactive Pivot Tables and charts built in Excel to analyze sales performance,
 
 ---
 
+<!-- ============ HACKERRANK ============ -->
+## 🎖️ HackerRank
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/nagsvenkatmeda9">
+  <img src="https://img.shields.io/badge/HackerRank-nagsvenkatmeda9-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
+</a>
+
+<!-- TIP: add each of your HackerRank badges below, e.g.
+![SQL](https://img.shields.io/badge/SQL-5%20Star-00EA64?style=flat-square&logo=hackerrank&logoColor=white) -->
+
+</div>
+
+---
+
 <!-- ============ 9. CURRENT LEARNING ============ -->
 ## 📚 Currently Learning
 
@@ -170,6 +203,7 @@ Interactive Pivot Tables and charts built in Excel to analyze sales performance,
 <a href="mailto:nagsvenkatmeda9304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/meda-naga-venkat-783813300"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/medanagavenkat999-droid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.hackerrank.com/profile/nagsvenkatmeda9"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 <a href="https://github.com/medanagavenkat999-droid/Resume/blob/main/cv2%20(1)%20(1).pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
 
 <br/><br/>
